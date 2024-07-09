@@ -12,7 +12,7 @@
 
 # Contacts
 
-- <a href="https://www.facebook.com/alden.cedric.9" target="_blank">Alden Cedric :</a>
+- <a href="https://www.facebook.com/alden.cedric.9" target="_blank">Alden Cedric Pe Lim :</a>
 - <a href="mailto:aldencedric314@gmail.com" target="_blank">aldencedric314@gmail.com :</a>
 - +63-969-124-0489
 <!---
