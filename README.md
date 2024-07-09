@@ -13,7 +13,7 @@
 # Contacts
 
 - <a href="https://www.facebook.com/alden.cedric.9" target="_blank">Alden Cedric :</a>
-- <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRttWThQhgwrFZPSHdbpFhMGBdVgdRsCGHThzVMfPSbpKwvbrcNtpQgffDpGVmhrFlXlRfL" target="_blank">aldencedric314@gmail.com :</a>
+- <a href="mailto:aldencedric314@gmail.com" target="_blank">aldencedric314@gmail.com :</a>
 - +63-969-124-0489
 <!---
 AldenCedric/About-Me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
