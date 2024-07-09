@@ -11,8 +11,8 @@
 
 # Contacts
 
-- <a href="https://www.facebook.com/alden.cedric.9" target="_blank">Alden Cedric Pe Lim
-- <a href="mailto:aldencedric314@gmail.com" target="_blank">aldencedric314@gmail.com
+- <a href="https://www.facebook.com/alden.cedric.9" target="_blank">Alden Cedric Pe Lim :</a> Facebook
+- <a href="mailto:aldencedric314@gmail.com" target="_blank">aldencedric314@gmail.com :</a> Email Address
 - +63-969-124-0489
 <!---
 AldenCedric/About-Me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
