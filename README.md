@@ -12,6 +12,7 @@
 
 -  <a href="mailto:aldencedric314@gmail.com" target="_blank">aldencedric314@gmail.com </a> Email Address
 -  <a href="https://www.facebook.com/alden.cedric.9" target="_blank">Alden Cedric Pe Lim</a> Facebook
+-  <a href="https://www.instagram.com/atlq_r/" target="_blank">atlq_r</a> Instagram
 -  +63-969-124-0489
 <!---
 AldenCedric/About-Me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
