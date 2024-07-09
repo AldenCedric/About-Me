@@ -9,10 +9,10 @@
 
 - As of 2024 I'm a Freshman at College, I look forward to make a projects as a reference to show my skills. I'm Interested at collaborating for my works.
 
-# Contacts
+# Contact Info
 
-- <a href="https://www.facebook.com/alden.cedric.9" target="_blank">Alden Cedric Pe Lim :</a> Facebook
-- <a href="mailto:aldencedric314@gmail.com" target="_blank">aldencedric314@gmail.com :</a> Email Address
+- <a href="mailto:aldencedric314@gmail.com" target="_blank">aldencedric314@gmail.com </a> Email Address
+- <a href="https://www.facebook.com/alden.cedric.9" target="_blank">Alden Cedric Pe Lim </a> Facebook
 - +63-969-124-0489
 <!---
 AldenCedric/About-Me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
