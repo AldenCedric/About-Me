@@ -4,7 +4,6 @@
 -  My programming language: HTML, CSS, Python (I'm still a rookie XD)
 -  I’m currently learning Full-stack development
 -  I’m looking to collaborate on someone who's capable to teach me and test some of my projects
--  For Contact inquiries message at aldencedric314@gmail.com
 -  He/Him/His
 -  Current plan for 2024 right now i'm working on my first project and having a work experience
 
@@ -12,8 +11,8 @@
 
 # Contacts
 
-- <a href="https://www.facebook.com/alden.cedric.9" target="_blank">Facebook :</a>
-- <a href="mailto:aldencedric314@gmail.com" target="_blank">aldencedric314@gmail.com :</a>
+- <a href="https://www.facebook.com/alden.cedric.9" target="_blank">Alden Cedric Pe Lim
+- <a href="mailto:aldencedric314@gmail.com" target="_blank">aldencedric314@gmail.com
 - +63-969-124-0489
 <!---
 AldenCedric/About-Me is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
